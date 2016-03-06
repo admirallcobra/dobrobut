@@ -67,7 +67,6 @@
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	background: url(../_img/selector-shadow.png) no-repeat 0 0;
 	width: 120px;
 	height: 30px;
 	display: none;
@@ -132,7 +131,6 @@
 	float: left;
 	width: 11px;
 	height: 11px;
-	background: url(../_img/selector-prev.png) no-repeat 50% 0;
 }
 
 .sliderContainer .slideSelectors .next {
@@ -140,7 +138,6 @@
 	width: 11px;
 	height: 11px;
 	margin: 0 0 0 10px;
-	background: url(../_img/selector-next.png) no-repeat 50% 0;
 }
 
 .sliderContainer .slideSelectors .item {
