@@ -520,16 +520,16 @@ h6 {
   display: block;
 }
 .service-item .service-icon.first {
-  background-image: url(../images/services/houses.png);
+  background-image: url(../images/houses.png);
 }
 .service-item .service-icon.second {
-  background-image: url(../images/services/apartments.png);
+  background-image: url(../images/apartments.png);
 }
 .service-item .service-icon.third {
-  background-image: url(../images/services/offices.png);
+  background-image: url(../images/offices.png);
 }
 .service-item .service-icon.fourth {
-  background-image: url(../images/services/buildings.png);
+  background-image: url(../images/buildings.png);
 }
 
 /* ==========================================================================
